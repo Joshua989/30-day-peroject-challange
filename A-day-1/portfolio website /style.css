@@ -1,0 +1,22 @@
+#home {
+    background-image: url('/A-day-1/portfolio website /image/482e743eda443bce2eb1857f8cab4ff3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff;
+    height: 100vh; /* Set section height to viewport height */
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    max-width: none; /* Remove max-width constraint */
+}
+h1{
+  font-family: 'Anton', sans-serif;
+}
+p{
+  font-family: 'Anton', sans-serif;
+}
+
