@@ -1,0 +1,36 @@
+.container{
+  background-color:blue;
+  padding:10px;
+  border:9px solid #ccc;
+}
+.sidebar{
+  background-color: yellow;
+  padding:20px;
+  text-align: center;
+}
+.House{
+  background-color:pink;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+.container1{
+  display: flex;
+  background-color:gray;
+  
+}
+.red{
+  background-color:red;
+  width:320px;
+}
+.blue{
+  background-color:blue;
+  width:320px;
+}
+.green{
+  background-color: green;
+  width:320px;
+}
+.span1{
+  color:red;
+}
